@@ -1,7 +1,7 @@
 {
-  "name": "hercai",
+  "name": "hercai-google",
   "version": "12.0.0",
-  "description": "A powerful library for interacting with the Herc.ai API",
+  "description": "A site for interacting with the Herc.ai API",
   "main": "index.js",
   "types": "./types/index.d.ts",
   "scripts": {
@@ -97,10 +97,10 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Bes-js/herc.ai.git"
+    "url": "https://github.com/HttpAnimation/Google"
   },
   "bugs": {
-    "url": "https://github.com/Bes-js/herc.ai"
+    "url": "https://github.com/HttpAnimation/Google/pulls"
   },
   "homepage": "https://github.com/HttpAnimation/Google",
   "dependencies": {
